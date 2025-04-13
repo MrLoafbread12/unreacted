@@ -1,12 +1,16 @@
 {
-  "name": "react-from-scratch",
+  "name": "unreacted",
+  "version": "0.1.0",
   "module": "index.ts",
   "type": "module",
-  "private": true,
   "devDependencies": {
     "@types/bun": "latest"
   },
   "peerDependencies": {
     "typescript": "^5"
+  },
+  "scripts": {
+    "build": "bun build ./src/app.ts --outdir ./dist --target browser",
+    "dev": "bun --hot index.html"
   }
 }
