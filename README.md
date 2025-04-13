@@ -6,7 +6,7 @@ Currently, we have the most popular hooks implemented: `useState`, `useEffect` a
 
 **All with less than 100 lines of code for most of the files.**
 
-**Package size: 9.7 kB. Unpacked size: 30.4 kB.** (49.8 kB with the favicon :)
+**Package size for the core template: 9.7 kB. Unpacked size: 30.4 kB.** (49.8 kB with the favicon :)
 
 Every file in `src/` has a purpose, from rendering to the virtual DOM, to the hooks and the component logic.
 
@@ -20,24 +20,17 @@ This is not meant to be production ready (of course), but it is a great way to l
 
 ## Setup
 
-1.  **Clone the repository (if you haven't already):**
-    ```bash
-    npm install unreacted
-    ```
-    or
-    ```bash
-    bun install unreacted
-    ```
-    or
-    ```bash
-    pnpm install unreacted
-    ```
+1.  **Use the CLI to create a new project:**
 
-2.  **Install dependencies:**
-    ```bash
-    bun install
-    ```
-    This will install the necessary dependencies listed in `package.json`, including TypeScript and Bun types.
+```bash
+npx unreacted project-name
+```
+
+or 
+
+```bash
+bunx unreacted project-name
+```
 
 ## Building the Project
 
