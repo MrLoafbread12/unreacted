@@ -35,6 +35,12 @@ bunx unreacted project-name
 ## Building the Project
 
 This project uses Bun's built-in bundler to compile the TypeScript source code (`src/app.ts`) into a JavaScript file (`dist/bundle.js`) that can be run in a browser.
+You can also use `npm` or any other package manager.
+
+First install everything:
+```bash
+bun install
+```
 
 Run the build command:
 
