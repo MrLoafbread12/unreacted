@@ -6,7 +6,7 @@ Currently, we have the most popular hooks implemented: `useState`, `useEffect` a
 
 **All with less than 100 lines of code for most of the files.**
 
-**Package size: 9.7 kB. Unpacked size: 30.4 kB.**
+**Package size: 9.7 kB. Unpacked size: 30.4 kB.** (49.8 kB with the favicon :)
 
 Every file in `src/` has a purpose, from rendering to the virtual DOM, to the hooks and the component logic.
 

@@ -1,6 +1,6 @@
 {
   "name": "unreacted",
-  "version": "0.1.0",
+  "version": "0.1.4",
   "module": "index.ts",
   "type": "module",
   "devDependencies": {
@@ -9,8 +9,11 @@
   "peerDependencies": {
     "typescript": "^5"
   },
+  "bin": {
+    "unreacted": "./dist/index.js"
+  },
   "scripts": {
-    "build": "bun build ./src/app.ts --outdir ./dist --target browser",
+    "build": "bun build ./src/app.ts ./index.ts --outdir ./dist --target node",
     "dev": "bun --hot index.html"
   }
 }
